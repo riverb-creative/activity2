@@ -1,0 +1,23 @@
+{
+  "name": "activity2",
+  "version": "1.0.0",
+  "description": "CS 233W Activity 2",
+  "homepage": "https://github.com/riverb-creative/CS233WActivity2#readme",
+  "bugs": {
+    "url": "https://github.com/riverb-creative/CS233WActivity2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riverb-creative/CS233WActivity2.git"
+  },
+  "license": "ISC",
+  "author": "River",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
